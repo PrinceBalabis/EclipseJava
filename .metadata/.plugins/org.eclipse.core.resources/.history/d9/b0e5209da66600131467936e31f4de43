@@ -1,0 +1,12 @@
+package laboration4;
+
+public class Program4a {
+    public void info() {
+        // Lägg till instruktioner här
+    }
+
+    public static void main( String[] args ) {
+        Program4a p4 = new Program4a();
+        p4.info();
+    }
+}
