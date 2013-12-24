@@ -1,4 +1,5 @@
-EclipseJava
+Eclipse-Java
 ===========
 
-Java-programmering med Eclipse
+Träning med Java-programmering i Eclipse
+
